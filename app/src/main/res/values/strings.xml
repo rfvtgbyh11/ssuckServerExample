@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Client1</string>
+    <string name="baseUrl">http://13.209.35.87:3000/</string>
+</resources>
